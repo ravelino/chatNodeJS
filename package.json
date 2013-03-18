@@ -1,0 +1,12 @@
+{ 
+  "name" : "chat-package",
+  "description" : "pacote com exemplo de chat",
+  "version" : "0.0.1",
+  "author" : "Rogério Avelino <avelino_rogerio@yahoo.com.br>",
+  "devDependencies" : {
+    "connect": "*",
+    "redis": "*",
+    "socket.io": "*"
+  },
+  "main": "index"
+}
